@@ -15,7 +15,7 @@ This project involved building a Node.js command-line application that takes in 
 
 # Website Preview
 
-![Website Video](SVGlogoCreatorVideo.mp4)
+[Click here to watch a recording of the working application.](https://drive.google.com/file/d/1-t93X_vSybN9bRrb-vaNkZZPxVsH6kHZ/view)
 
 # Links
 [Click here to access the deployed website.](https://fadumaabdi.github.io/CalenderApplication/)
