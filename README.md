@@ -21,3 +21,6 @@ This project involved building a Node.js command-line application that takes in 
 
 [Click here to access the files on the github repository.](https://github.com/fadumaabdi/SVGLogoCreator)
 
+# Credits
+
+To build the following application I have received support from tutor and in class walkthroughs.
